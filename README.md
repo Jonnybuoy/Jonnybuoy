@@ -1,7 +1,7 @@
 ### Aloha! 👋
 
-- 🔭 Are you ready to explore the exciting projects I've been working on?
-- :writing_hand: I've worked on various web applications, most of them based on Django and JavaScript. Oh, lets not forget my mobile app dubbed `Tujilinde` :smile:
+- 🔭 Are you ready to explore the exciting projects I've been working on? :smiley:
+- :writing_hand: I've worked on various web applications and mobile applications. My main tech stacks include Python, Django, JS, Java.
 - 🌱 I’m currently learning more of JavaScript, Nodejs, Reactjs and looking to explore more on DevOps
 - 👯 I’m looking to collaborate on open source projects based on Python and JavaScript.
 - 📫 How to reach me: :telephone_receiver: +254702643167 or :inbox_tray: kaguithiajohnson@gmail.com
