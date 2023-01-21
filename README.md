@@ -1,4 +1,4 @@
-### Aloha! 👋
+### Hello World! 👋
 
 - 🔭 Are you ready to explore the exciting projects I've been working on? :smiley:
 - :writing_hand: I've worked on various web applications and mobile applications. My main tech stacks include Python, Django, JS, Java.
